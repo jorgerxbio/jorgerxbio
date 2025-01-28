@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on create a cluster
+- 🌱 I’m currently learning linux
+- 📫 How to reach me: jorgerxbio@proton.me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 2+2 = pez
 <!--
 **jorgerxbio/jorgerxbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
